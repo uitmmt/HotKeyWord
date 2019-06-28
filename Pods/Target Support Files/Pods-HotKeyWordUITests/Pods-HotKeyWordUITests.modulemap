@@ -1,0 +1,6 @@
+framework module Pods_HotKeyWordUITests {
+  umbrella header "Pods-HotKeyWordUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

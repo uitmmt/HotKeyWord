@@ -1,0 +1,6 @@
+framework module Pods_HotKeyWord {
+  umbrella header "Pods-HotKeyWord-umbrella.h"
+
+  export *
+  module * { export * }
+}
